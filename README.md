@@ -25,8 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Add solution URL here](https://github.com/Shillue/componente-de-codigo-qr.git)
 - Live Site URL: [Add live site URL here](https://shillue.github.io/componente-de-codigo-qr/)
-- 
-- Live Site URL: <a href="https://shillue.github.io/componente-de-codigo-qr/" target="_blank">Add live site URL here</a>
+  
 ## My process
 
 ### Built with
