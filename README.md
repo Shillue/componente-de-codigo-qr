@@ -19,13 +19,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![qrCode](https://github.com/Shillue/componente-de-codigo-qr/assets/86475008/29017b11-ff37-48a3-ba02-6b044e9913e5)
+![qr-code-component-main](https://github.com/user-attachments/assets/0c58d615-23a7-4a0c-9f93-a3be0e667a27)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Shillue/componente-de-codigo-qr.git)
 - Live Site URL: [Add live site URL here](https://shillue.github.io/componente-de-codigo-qr/)
-
+- 
+- Live Site URL: <a href="https://shillue.github.io/componente-de-codigo-qr/" target="_blank">Add live site URL here</a>
 ## My process
 
 ### Built with
